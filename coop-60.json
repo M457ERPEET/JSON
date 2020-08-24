@@ -10,7 +10,9 @@
     "numberphone":"096-745-7428",
     "company":"SourceCode",
     "position":"Software Developer",
-    "definition":"freelance ครับไม่ใช่ free เลย"
+    "definition":"freelance ครับไม่ใช่ free เลย",
+    "image":"https://raw.githubusercontent.com/M457ERPEET/json/master/profile%203%20(1).jpg"
+    
     },
 
 
@@ -24,7 +26,8 @@
     "numberphone":"098-793-3914",
     "company":"OSD",
     "position":"BackEnd",
-    "definition":"เบียร์ขวดเดียวผมก็อ้วก"
+    "definition":"เบียร์ขวดเดียวผมก็อ้วก",
+    "image":""
     },
 
   
@@ -208,5 +211,3 @@
     "definition":"เขาเรียกผมว่านักกล้าม"   
     }
 ]
-
-
