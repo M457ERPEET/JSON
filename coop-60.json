@@ -1,0 +1,212 @@
+[
+
+    {
+    "name":"Songkiat",
+    "lastname":"Keawpairee",
+    "nickname":"Peet",
+    "age":"22",
+    "date":"21/08/2541",
+    "sex":"male",
+    "numberphone":"096-745-7428",
+    "company":"SourceCode",
+    "position":"Software Developer",
+    "definition":"freelance ครับไม่ใช่ free เลย"
+    },
+
+
+    {
+    "name":"Panupat",
+    "lastname":"Chanate",
+    "nickname":"Wut",
+    "age":"23",
+    "date":"15/09/2540",
+    "sex":"male",
+    "numberphone":"098-793-3914",
+    "company":"OSD",
+    "position":"BackEnd",
+    "definition":"เบียร์ขวดเดียวผมก็อ้วก"
+    },
+
+  
+    {
+    "name":"Nawaphon",
+    "lastname":"Wichaidit",
+    "nickname":"Dream",
+    "age":"26",
+    "date":"06/09/2536",
+    "sex":"male",
+    "numberphone":"062-308-7930",
+    "company":"---UnKnow---",
+    "position":"Full Stack Web Application Devaloper",
+    "definition":"I'm not perfect but I'm limited edition."
+    },
+
+
+    {
+    "name":"Siriwimon",
+    "lastname":"Mawong",
+    "nickname":"Aom",
+    "age":"21",
+    "date":"27/08/2541",
+    "sex":"female",
+    "numberphone":"083-758-0137",
+    "company":"Infovation thailand",
+    "position":"System Analyst",
+    "definition":"เมาได้แต่งานต้องเสร็จ"
+    },
+
+
+    {
+    "name":"Papichaya",
+    "lastname":"Paopan",
+    "nickname":"Aum-Aim",
+    "age":"22",
+    "date":"03/03/2541",
+    "sex":"female",
+    "numberphone":"080-528-3605",
+    "company":"INFORMATION",
+    "position":"System Analyst",
+    "definition":"แค่อวบไม่ถึงอ้วน"
+    },
+
+    
+    {
+    "name":"Chinavad",
+    "lastname":"Pandi",
+    "nickname":"Kla",
+    "age":"21",
+    "date":"02/01/2542",
+    "sex":"male",
+    "numberphone":"093-197-0099",
+    "company":"True Digital Park",
+    "position":"---UnKnow---",
+    "definition":"เมื่อวานคุณพูดว่า พรุ่งนี้จะทำ (ขี้บ่น)"
+    },
+
+    
+    {
+    "name":"Sanhanut",
+    "lastname":"Kamreuang",
+    "nickname":"Nut",
+    "age":"21",
+    "date":"22/03/2542",
+    "sex":"male",
+    "numberphone":"094-764-6640",
+    "company":"THAIDATAHOSTING",
+    "position":"System engineering / Cloud management",
+    "definition":"ฒ.ผู้เฒ่าเดินย่อง ส่วนผมถือบ่องเดินยิ้ม"
+    },
+
+ 
+    {
+    "name":"Udomsak",
+    "lastname":"Kunaprom",
+    "nickname":"Tan",
+    "age":"21",
+    "date":"18/04/2542",
+    "sex":"male",
+    "numberphone":"094-187-3158",
+    "company":"True Digital Park",
+    "position":"Network lnfrastructure Manager",
+    "definition":"ทำงานต้องอดทน ถ้าไม่อดทนก็อดตาย"
+    },
+
+ 
+    {
+    "name":"Sakchai",
+    "lastname":"Meechamnan",
+    "nickname":"Ma-Krood",
+    "age":"22",
+    "date":"22/11/2540",
+    "sex":"male",
+    "numberphone":"061-830-5533",
+    "company":"---UnKnow---",
+    "position":"Software Developer",
+    "definition":"ถ้ากูเอาจริงก้แค่เศษฝุ่น"
+    },
+
+
+    {
+    "name":"Kosol",
+    "lastname":"Ketthong",
+    "nickname":"O-Ro",
+    "age":"22",
+    "date":"12/10/2541",
+    "sex":"male",
+    "numberphone":"091-028-1717",
+    "company":"OSD",
+    "position":"Full Stack web Application Developer",
+    "definition":"ยิ้มง่าย ร่าเริง ตัวสูง"
+    },
+
+  
+    {
+    "name":"Natthamon",
+    "lastname":"Saengarun",
+    "nickname":"May",
+    "age":"23",
+    "date":"30/04/2540",
+    "sex":"female",
+    "numberphone":"098-790-0335",
+    "company":"SourceCode",
+    "position":"System Analyst",
+    "definition":"ซื่อสัตว์และรับฝังความคิดเห็นของคนอื่น"
+    },
+
+   
+    {
+    "name":"Nion",
+    "lastname":"Wattanagupt",
+    "nickname":"Nan",
+    "age":"21",
+    "date":"21/06/2542",
+    "sex":"tom",
+    "numberphone":"098-813-8024",
+    "company":"SourceCode",
+    "position":"System Analyst",
+    "definition":"คนเก่งไม่กลัว กลัวคนขยัน"
+    },
+
+ 
+    {
+    "name":"Siwakron",
+    "lastname":"Maneerat",
+    "nickname":"Sin",
+    "age":"27",
+    "date":"04/04/2535",
+    "sex":"male",
+    "numberphone":"061-426-6588",
+    "company":"Control Logic",
+    "position":"Control System Engineer",
+    "definition":"สู้ทุกอย่างที่สู้ไหว"
+    },
+
+    {
+    "name":"Rangsiman",
+    "lastname":"Jansa",
+    "nickname":"Pak",
+    "age":"22",
+    "date":"21/10/2541",
+    "sex":"male",
+    "numberphone":"082-881-8123",
+    "company":"THAIDATAHOSTING",
+    "position":"System engineering / Cloud management",
+    "definition":"เหลี่ยมผมคมกว่าขอบโต๊ะ"
+    },
+
+
+    {
+    "name":"Kanokphon",
+    "lastname":"Keawkamphon",
+    "nickname":"Than",
+    "age":"22",
+    "date":"22/07/2541",
+    "sex":"male",
+    "numberphone":"061-281-0712",
+    "company":"OSD",
+    "position":"Full Stack web Application Developer",
+    "definition":"เขาเรียกผมว่านักกล้าม"   
+    }
+]
+
+
